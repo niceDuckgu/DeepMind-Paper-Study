@@ -1,5 +1,6 @@
 # DeepMind-Paper-Study
 Deep-RL Study
+* * *
 
 |  <center>Date</center> | <center>Week</center> | <center>Topic</center> |<center>Presenter</center> |<center>Slides</center> |<center>Paper Link</center>|
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
