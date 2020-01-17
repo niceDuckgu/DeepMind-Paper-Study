@@ -8,5 +8,5 @@ Deep-RL Study
 |**2020-01-03** | <center>01-2 </center> |*<center>Recurrent Models of Visual Attention</center>*|<center>이상현</center> |[PPT](https://github.com/niceDuckgu/DeepMind-Paper-Study/blob/master/PPT/Week%2001_2%20Recurrent%20Models%20of%20Visual%20Attention.pdf) |*[Link](https://arxiv.org/pdf/1406.6247.pdf)* |<center>Human-like Vision</center> |
 |**2020-01-11** | <center>02-1 </center> |*<center>Deterministic Policy Gradient Algorithms</center>*|<center>이상현</center> |[PPT](https://github.com/niceDuckgu/DeepMind-Paper-Study/blob/master/PPT/Week%2002_1%20Deterministic%20Policy%20Gradient%20Algorithms.pdf) |*[Link](http://proceedings.mlr.press/v32/silver14.pdf)* |<center> DPG </center> |
 |**2020-01-17** | <center>03-1 </center> |*<center>Continous Control with Deep Reinforcement Learning</center>*|<center>이상현</center> |[PPT]() |*[Link](https://arxiv.org/pdf/1509.02971v2.pdf)* |<center> DDPG </center> |
-
+|**2020-01-17** | <center>03-2 </center> |*<center>Asynchronous Methods for Deep Reinforcement Learning</center>*|<center>김윤성</center> |[PPT](https://github.com/niceDuckgu/DeepMind-Paper-Study/blob/master/PPT/Week%2003_1%20Asynchronous%20Methods%20for%20Deep%20Reinforcement%20Learning.pptx) |*[Link](https://arxiv.org/pdf/1602.01783.pdf)* |<center> A3C </center> |
 
